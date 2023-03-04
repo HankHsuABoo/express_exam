@@ -1,4 +1,4 @@
-# 餐廳清單 Restaurant List
+# Express exam
 
 # 功能描述 Features
 * 此專案為AC A22之express能力驗收
@@ -15,12 +15,12 @@
 2. 打開終端機，複製此專案至本機電腦。
    Open the terminal and clone this project.
 ```
-git clone 
+git clone https://github.com/HankHsuABoo/express_exam.git
 ```
 3. 進入專案資料夾。
    Enter the project folder.
 ```
-cd 
+cd express_exam
 ```
 4. 安裝 npm 套件。
    Install npm package.
@@ -37,7 +37,7 @@ npm run dev
 ```
 Express is listening on localhost:3000
 ```
-7. 使用瀏覽器輸入網址"http://localhost:3000"即可開始使用餐廳清單。
+7. 使用瀏覽器輸入網址"http://localhost:3000"即可開始使用此專案。
    Open your browser and use this URL: "http://localhost:3000", then enjoy the project.
 
 8. 欲停止伺服器，在終端機使用"ctrl + c"。
